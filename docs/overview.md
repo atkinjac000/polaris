@@ -54,6 +54,8 @@ store
 - Salesmen can set personal sales goals and track progress
 - Managers can set store-wide or shift-wide sales goals and track each salesman's progress
 - An app available to salesmen that makes price checking easier
+- Fuzzy search for items
+- Item barcode add to sale
 
 ## Will-Not-Haves
 
