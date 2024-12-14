@@ -1,3 +1,1 @@
 # Architecture Considerations for Polaris
-
-
