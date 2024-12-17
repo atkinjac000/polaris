@@ -6,6 +6,7 @@
 - id: integer
 - role: string (salesman, tailor, manager)
 - name: string
+- pin: integer
 
 ### Items
 - id: integer
@@ -13,6 +14,7 @@
 - brand: string
 - color: string
 - size: string
+- price: float
 
 ### Sales
 - id: integer
